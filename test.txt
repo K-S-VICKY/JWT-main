@@ -30,3 +30,6 @@ AUTH-BEAR(TOKEN)
 
 
 ALLPOSTS-GET-http://localhost:5000/api/posts/
+
+MONGO_URI= mongodb://127.0.0.1:27017/viki
+JWT_SECRET=masterTheBlaster@420
